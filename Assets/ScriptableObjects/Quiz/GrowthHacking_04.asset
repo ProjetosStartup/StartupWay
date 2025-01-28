@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50a9d2293698089478bf82cb5c5e7212, type: 3}
+  m_Name: GrowthHacking_04
+  m_EditorClassIdentifier: 
+  region: 0
+  question: "Qual \xE9 o papel da an\xE1lise de dados no growth hacking?  "
+  answers:
+  - value: 6000
+    text: "A an\xE1lise de dados \xE9 fundamental para identificar oportunidades
+      de crescimento, avaliar o desempenho das estrat\xE9gias implementadas e tomar
+      decis\xF5es baseadas em dados para otimizar o processo de crescimento.  "
+  - value: 3000
+    text: "A an\xE1lise de dados \xE9 irrelevante para o growth hacking.  "
+  - value: 3000
+    text: "A an\xE1lise de dados \xE9 usada apenas para rastrear as despesas da startup.  "
+  - value: 3000
+    text: "A an\xE1lise de dados \xE9 usada apenas para fins cont\xE1beis. "

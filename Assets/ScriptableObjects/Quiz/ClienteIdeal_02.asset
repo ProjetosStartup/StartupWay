@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50a9d2293698089478bf82cb5c5e7212, type: 3}
+  m_Name: ClienteIdeal_02
+  m_EditorClassIdentifier: 
+  region: 0
+  question: "Quais s\xE3o algumas das caracter\xEDsticas importantes ao identificar
+    o cliente ideal? "
+  answers:
+  - value: 6000
+    text: "Demogr\xE1ficas (idade, g\xEAnero, localiza\xE7\xE3o), psicogr\xE1ficas
+      (valores, interesses, estilo de vida) e comportamentais (h\xE1bitos de compra,
+      prefer\xEAncias).  "
+  - value: 3000
+    text: "Apenas caracter\xEDsticas demogr\xE1ficas.  "
+  - value: 3000
+    text: "Apenas caracter\xEDsticas psicogr\xE1ficas.  "
+  - value: 3000
+    text: "Apenas caracter\xEDsticas comportamentais. "

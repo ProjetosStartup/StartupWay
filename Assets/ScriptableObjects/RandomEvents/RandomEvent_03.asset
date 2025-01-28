@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9b28ee98a680674fb23e469bf8d9345, type: 3}
+  m_Name: RandomEvent_03
+  m_EditorClassIdentifier: 
+  region: 2
+  successValue: 5000
+  failureValue: 1000
+  price: 1000
+  rentValue: 3000
+  conditions:
+  - quantity: 1
+    employeeFunction: 1
+    employeeTier: 16
+  - quantity: 1
+    employeeFunction: 3
+    employeeTier: 16
+  text: "Um especialista em marketing digital, e gostaria de apresentar uma oportunidade
+    incr\xEDvel para impulsionar sua presen\xE7a online e alcan\xE7ar novos clientes
+    por meio de uma estrat\xE9gia de m\xEDdias sociais inbound."

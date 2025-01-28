@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9b28ee98a680674fb23e469bf8d9345, type: 3}
+  m_Name: RandomEvent_08
+  m_EditorClassIdentifier: 
+  region: 2
+  successValue: 5000
+  failureValue: 2000
+  price: 1000
+  rentValue: 3000
+  conditions:
+  - quantity: 1
+    employeeFunction: 0
+    employeeTier: 16
+  - quantity: 1
+    employeeFunction: 1
+    employeeTier: 16
+  - quantity: 1
+    employeeFunction: 3
+    employeeTier: 16
+  text: "Uma ag\xEAncia de publicidade renomada oferece uma oportunidade \xFAnica
+    para impulsionar as vendas da sua empresa atrav\xE9s de uma campanha de marketing
+    outbound. Com an\xFAncios criativos e estrat\xE9gias de segmenta\xE7\xE3o precisa,
+    alcan\xE7aremos ativamente os clientes potenciais, aumentando sua visibilidade
+    e atraindo novos neg\xF3cios."
