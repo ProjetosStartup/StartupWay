@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50a9d2293698089478bf82cb5c5e7212, type: 3}
+  m_Name: Marketing_02
+  m_EditorClassIdentifier: 
+  region: 0
+  question: "Quais s\xE3o algumas das principais vantagens do marketing digital para
+    startups?"
+  answers:
+  - value: 6000
+    text: "Custo-efetividade, alcance global, capacidade de segmenta\xE7\xE3o precisa
+      do p\xFAblico-alvo e facilidade de mensura\xE7\xE3o de resultados.  "
+  - value: 3000
+    text: 'Altos custos e alcance limitado.  '
+  - value: 3000
+    text: "Depend\xEAncia exclusiva de m\xE9todos tradicionais de marketing.  "
+  - value: 3000
+    text: 'Dificuldade em rastrear o desempenho das campanhas. '

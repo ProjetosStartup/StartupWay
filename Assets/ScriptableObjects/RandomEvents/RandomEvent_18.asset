@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9b28ee98a680674fb23e469bf8d9345, type: 3}
+  m_Name: RandomEvent_18
+  m_EditorClassIdentifier: 
+  region: 2
+  successValue: 1000000
+  failureValue: 3000
+  price: 500000
+  rentValue: 700000
+  conditions:
+  - quantity: 1
+    employeeFunction: 0
+    employeeTier: 128
+  - quantity: 1
+    employeeFunction: 1
+    employeeTier: 128
+  - quantity: 1
+    employeeFunction: 3
+    employeeTier: 128
+  text: "Durante uma viagem de neg\xF3cios, voc\xEA recebeu uma proposta de um conglomerado
+    multinacional para adquirir 20% das a\xE7\xF5es de sua startup. Voc\xEA est\xE1
+    inclinado a aceitar a venda ou prefere recusar a oferta?"

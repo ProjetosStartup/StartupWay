@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9b28ee98a680674fb23e469bf8d9345, type: 3}
+  m_Name: RandomEvent_06
+  m_EditorClassIdentifier: 
+  region: 2
+  successValue: 5000
+  failureValue: 1000
+  price: 1000
+  rentValue: 3000
+  conditions:
+  - quantity: 1
+    employeeFunction: 3
+    employeeTier: 2
+  - quantity: 1
+    employeeFunction: 1
+    employeeTier: 2
+  - quantity: 1
+    employeeFunction: 2
+    employeeTier: 2
+  text: "Uma empresa especializada em servi\xE7os de telemarketing. Entra  em contato
+    com voc\xEA para apresentar uma oportunidade que pode impulsionar significativamente
+    o crescimento da Startup, sabemos que expandir a base de clientes e aumentar
+    a receita s\xE3o prioridades cruciais para qualquer startup. \xC9 por isso que
+    gostar\xEDamos de oferecer nossos servi\xE7os de cold calling para ajudar a alcan\xE7ar
+    esses objetivos de maneira eficaz."

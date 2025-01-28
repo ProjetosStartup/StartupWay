@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50a9d2293698089478bf82cb5c5e7212, type: 3}
+  m_Name: TesteAB_01
+  m_EditorClassIdentifier: 
+  region: 0
+  question: "O que \xE9 teste A/B em rela\xE7\xE3o a startups e marketing?"
+  answers:
+  - value: 3000
+    text: Um teste que compara diferentes startups.
+  - value: 6000
+    text: "Um m\xE9todo de experimenta\xE7\xE3o no qual duas vers\xF5es de um elemento
+      s\xE3o comparadas, geralmente por meio de um experimento aleat\xF3rio controlado."
+  - value: 3000
+    text: "Uma an\xE1lise estat\xEDstica do mercado-alvo."
+  - value: 3000
+    text: "Uma estrat\xE9gia para aumentar os pre\xE7os dos produtos. \r"

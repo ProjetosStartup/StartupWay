@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9b28ee98a680674fb23e469bf8d9345, type: 3}
+  m_Name: RandomEvent_05
+  m_EditorClassIdentifier: 
+  region: 2
+  successValue: 8000
+  failureValue: 2000
+  price: 1000
+  rentValue: 7000
+  conditions:
+  - quantity: 1
+    employeeFunction: 1
+    employeeTier: 128
+  - quantity: 1
+    employeeFunction: 3
+    employeeTier: 128
+  - quantity: 1
+    employeeFunction: 2
+    employeeTier: 128
+  text: "Um convite exclusivo para participar de um prestigiado evento de vendas,
+    conhecido por atrair l\xEDderes e influenciadores do setor, acabara de chegar
+    \xE0 caixa de entrada do CEO, \xC9 uma oportunidade incr\xEDvel para colocar
+    nosso produto no centro das aten\xE7\xF5es."

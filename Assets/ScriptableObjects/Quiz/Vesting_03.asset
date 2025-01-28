@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50a9d2293698089478bf82cb5c5e7212, type: 3}
+  m_Name: Vesting_03
+  m_EditorClassIdentifier: 
+  region: 0
+  question: "Quem geralmente \xE9 eleg\xEDvel para participar de um contrato de vesting
+    em uma startup?  "
+  answers:
+  - value: 3000
+    text: 'Qualquer pessoa interessada em investir na startup.  '
+  - value: 6000
+    text: "Fundadores, funcion\xE1rios e consultores que contribuem para o crescimento
+      e sucesso da empresa.  "
+  - value: 3000
+    text: "Apenas investidores externos.\_"
+  - value: 3000
+    text: Apenas clientes que usam os produtos da startup.

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fb3c6d6c2ec66e4a978c3f4633cbd12, type: 3}
+  m_Name: Startup 1
+  m_EditorClassIdentifier: 
+  name: PayWave
+  sector: 1
+  problem: "Falta de acesso a servi\xE7os banc\xE1rios em \xE1reas remotas."
+  solution: "Aplicativo m\xF3vel que oferece servi\xE7os financeiros digitais, como
+    pagamentos e transfer\xEAncias, sem a necessidade de ag\xEAncias f\xEDsicas."
+  businessModel: 1
+  team:
+    employees:
+    - {fileID: 11400000, guid: 59f8bd2c44de5884c90e193a79f0748f, type: 2}
+    - {fileID: 11400000, guid: a11f30ea3bc696f4e97ad69eda778ee4, type: 2}
+    integrationTier: 0
+    teamExperience: 0

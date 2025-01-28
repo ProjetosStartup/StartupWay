@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50a9d2293698089478bf82cb5c5e7212, type: 3}
+  m_Name: Burnrate_01
+  m_EditorClassIdentifier: 
+  region: 0
+  question: "O que \xE9 burn rate em rela\xE7\xE3o a startups e neg\xF3cios?  "
+  answers:
+  - value: 3000
+    text: 'A taxa de crescimento de uma startup.  '
+  - value: 3000
+    text: "O n\xFAmero de clientes que uma startup perde a cada m\xEAs."
+  - value: 6000
+    text: "A taxa na qual uma startup est\xE1 gastando seu capital financeiro, geralmente
+      expressa como uma quantidade de dinheiro gasto por m\xEAs.  "
+  - value: 3000
+    text: "O n\xFAmero de horas trabalhadas pelos funcion\xE1rios de uma startup. "

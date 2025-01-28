@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fb3c6d6c2ec66e4a978c3f4633cbd12, type: 3}
+  m_Name: Startup 6
+  m_EditorClassIdentifier: 
+  name: LawStream
+  sector: 6
+  problem: "Acesso limitado a servi\xE7os jur\xEDdicos acess\xEDveis. "
+  solution: "Plataforma que conecta usu\xE1rios a advogados e oferece servi\xE7os
+    jur\xEDdicos online a pre\xE7os acess\xEDveis."
+  businessModel: 0
+  team:
+    employees: []
+    integrationTier: 0
+    teamExperience: 0
